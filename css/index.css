@@ -242,10 +242,14 @@ hr.black {
   padding: 50px 0px !important;
 }
 
-@media screen and (max-width: 576px) {
+
+
+@media (min-width : 360px) and (max-width : 767px) {
   .work-section-column{
     padding: 10px 0px !important;
   }
+
+  .spacing{margin-top:5%;margin-top:5vh;margin-bottom:20%;margin-bottom:10vh;padding: 0px 0px !important;}
 
   .education-section-column{
     padding: 10px 0px !important;
@@ -260,6 +264,8 @@ hr.black {
   .work-section-column{
     padding: 10px 0px !important;
   }
+
+  /* .spacing{margin-top:5%;margin-top:5vh;margin-bottom:20%;margin-bottom:10vh;padding: 100px 0px;} */
 
   .education-section-column{
     padding: 10px 0px !important;
