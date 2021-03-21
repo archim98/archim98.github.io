@@ -208,6 +208,11 @@ hr.black {
 .work-section{
   color: black;
   background: white;
+  padding: 100px 0px !important;
+}
+
+.education-section{
+  padding: 100px 0px !important;
 }
 
 .contact-section{
